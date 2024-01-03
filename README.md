@@ -1,15 +1,17 @@
-# Transformer_network
+# Transformer Architecture
 
-## Images
-
-### Image 1
-![Image 1](Transformer_Architecture.webp)
-Transformer_Architecture
-
+This repository contains the code files of the Transformer architecture.
 
 ## Files
 
-### Code Files
-- [file1.py](Transformer architecture.ipynb)
-- [file2.py](Transformer architecture.py)
+### Jupyter Notebook
+- [Transformer architecture.ipynb](Transformer%20architecture.ipynb)
 
+### Python Script
+- [Transformer architecture.py](Transformer%20architecture.py)
+
+### Image
+![Transformer Architecture Image](Transformer_Architecture.webp)
+
+
+<!-- Add more sections or details as needed -->
