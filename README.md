@@ -3,7 +3,7 @@
 ## Images
 
 ### Image 1
-![Image 1](Transformer_Architecture)
+![Image 1](Transformer_Architecture.webp)
 Transformer_Architecture
 
 
