@@ -6,7 +6,7 @@ This repository contains the code files of the Transformer architecture.
 
 ### Architecture
 
-![Transformer Architecture](/Transformer_Architecture.jpg)
+![Transformer Architecture](https://raw.githubusercontent.com/Bhavjot-Singh03/Transformer_network/main/Transformer_Architecture.jpg)
 
 ### Jupyter Notebook
 - [Transformer architecture.ipynb](Transformer%20architecture.ipynb)
