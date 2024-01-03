@@ -2,6 +2,10 @@
 
 This repository contains the code files of the Transformer architecture.
 
+## Architecture 
+![Transformer_Architecture](https://github.com/Bhavjot-Singh03/Transformer_network/assets/131793243/c47d0754-9195-4fa5-b2c0-33891a8d6f88)
+
+
 ## Files
 
 ### Jupyter Notebook
