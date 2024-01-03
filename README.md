@@ -11,7 +11,7 @@ This repository contains the code files of the Transformer architecture.
 - [Transformer architecture.py](Transformer%20architecture.py)
 
 ### Image
-![Transformer Architecture Image](Transformer_Architecture.webp)
+![Transformer Architecture Image](Transformer_Architecture.jpg)
 
 
 <!-- Add more sections or details as needed -->
